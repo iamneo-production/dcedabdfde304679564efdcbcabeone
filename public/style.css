@@ -9,4 +9,12 @@ body {
     font-family: "Radio Canada", sans-serif;
   }
   
-/* Enter your styling here */
+h1{
+  color: #fff;
+  font-size:36px;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  margin-top: 20px;
+}
+.game-container{
+  
+}
